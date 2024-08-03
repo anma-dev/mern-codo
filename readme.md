@@ -1,6 +1,7 @@
 # Codo File - Code Edior with extending features.
 
  ### **[Live Demo ](https://codofile-85b0c.web.app/)**
+
     1. It is Basically a Code Editor Which can Execute Javascript, Python and Dart Code. 
 
     2 .It have Two Features:
@@ -27,7 +28,7 @@
   ## Installation 
     1. Open Command Prompt\ Terminal
 
-    2. git clone https://github.com/anma/mern-codo.git
+    2. git clone https://github.com/anma-dev/mern-codo.git
 
     3. cd .\mern-codo\
 
